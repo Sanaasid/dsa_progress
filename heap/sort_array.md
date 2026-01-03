@@ -1,4 +1,4 @@
-# Problem: Letter Case Permutation
+# Problem: sort array based on frequency
 
 ## Platform
 LeetCode  
