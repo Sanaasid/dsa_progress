@@ -1,7 +1,9 @@
 #Problem: Letter Case Permutation
 
-Platform: LeetCode  
-Difficulty: Medium  
+##Platform
+LeetCode  
+##Difficulty
+Medium  
 
 
  🧠 Approach
