@@ -1,10 +1,14 @@
 #Problem: Letter Case Permutation
 
 ##Platform
-LeetCode  
-##Difficulty
-Medium  
 
+LeetCode  
+
+##Difficulty
+
+Medium 
+
+---
 
  🧠 Approach
 - Used recursion with input-output method
@@ -14,6 +18,8 @@ Medium
     - one with uppercase
   - If it's a digit, directly add it to output
 - When input becomes empty, push output into result vector
+
+---
 
  💻 Code (C++)
 
