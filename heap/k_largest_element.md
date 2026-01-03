@@ -1,4 +1,4 @@
-# Problem: Letter Case Permutation
+# Problem: find kth largest element 
 
 ## Platform
 LeetCode  
