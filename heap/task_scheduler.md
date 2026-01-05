@@ -1,4 +1,4 @@
-# Problem: Letter Case Permutation
+# Problem: Task Scheduler
 
 ## Platform
 LeetCode  
