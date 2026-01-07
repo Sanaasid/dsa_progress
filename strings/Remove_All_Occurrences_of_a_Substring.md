@@ -1,4 +1,4 @@
-# Problem: Letter Case Permutation
+# Problem: Remove All Occurrences of a Substring
 
 ## Platform
 LeetCode  
