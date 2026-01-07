@@ -1,11 +1,12 @@
-# Problem: Letter Case Permutation
+# Problem: Permutation in String
 
 ## Platform
 LeetCode  
---
+
 ## Difficulty
 Medium  
---
+
+---
 
 ```cpp
 class Solution {
