@@ -1,4 +1,4 @@
-#Problem: Asteroid Collision
+# Problem: Asteroid Collision
 
 ## Platform
 LeetCode  
