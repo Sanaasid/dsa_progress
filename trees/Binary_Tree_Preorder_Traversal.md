@@ -4,7 +4,7 @@
 LeetCode  
 
 ## Difficulty
-Medium  
+Medium 
 
 ---
 
